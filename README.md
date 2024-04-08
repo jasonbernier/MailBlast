@@ -30,16 +30,16 @@ MailBlast is a Python application for sending emails with optional attachments. 
 
 Run the GUI version of MailBlast using the following command:
 
-    ```
+    
     python mailblast.py -g
-    ```
+   
 ### CLI
 
 Run the CLI version of MailBlast using the following command:
 
-    ```
+    
     python mailblast.py [options]
-    ```
+    
 
 Replace `[options]` with the appropriate command-line options. Use the `-h` or `--help` option to see the available options.
 
