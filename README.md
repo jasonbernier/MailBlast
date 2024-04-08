@@ -14,7 +14,7 @@ MailBlast is a Python application for sending emails with optional attachments. 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/MailBlast.git
+    git clone https://github.com/jasonbernier/MailBlast.git
     cd MailBlast
     ```
 
