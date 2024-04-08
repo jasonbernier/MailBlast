@@ -1,6 +1,6 @@
 # MailBlast
 
-MailBlast is a Python application for sending emails with optional attachments. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for sending emails.
+MailBlast is a Python application for sending emails with optional attachments. It provides both a graphical user interface (GUI) and a command-line interface (CLI) for sending emails. 
 
 ## Features
 
@@ -55,5 +55,10 @@ Replace `[options]` with the appropriate command-line options. Use the `-h` or `
 - `-a, --attachment`: Path to attachment file.
 - `-r, --recipients`: Comma-separated list of recipient emails.
 - `-pw, --password`: SMTP password.
+
+- ## Disclaimer
+
+This script is provided for educational and testing purposes only. Use it responsibly and at your own risk. The author is not responsible for any misuse or damage caused by this script.
+
 
 
