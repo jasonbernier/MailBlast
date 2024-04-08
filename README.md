@@ -43,6 +43,9 @@ Run the CLI version of MailBlast using the following command:
 
 Replace `[options]` with the appropriate command-line options. Use the `-h` or `--help` option to see the available options.
 
+
+Replace `[options]` with the appropriate command-line options. Use the `-h` or `--help` option to see the available options.
+
 ## Command-line Options
 
 - `-s, --server`: SMTP server address.
@@ -56,10 +59,11 @@ Replace `[options]` with the appropriate command-line options. Use the `-h` or `
 - `-r, --recipients`: Comma-separated list of recipient emails.
 - `-pw, --password`: SMTP password.
 
-
-- ## Disclaimer
+## Disclaimer
 
 This script is provided for educational and testing purposes only. Use it responsibly and at your own risk. The author is not responsible for any misuse or damage caused by this script.
+
+
 
 
 
