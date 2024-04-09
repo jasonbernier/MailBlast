@@ -46,8 +46,6 @@ Run the CLI version of MailBlast using the following command:
 Replace `[options]` with the appropriate command-line options. Use the `-h` or `--help` option to see the available options.
 
 
-Replace `[options]` with the appropriate command-line options. Use the `-h` or `--help` option to see the available options.
-
 ## Command-line Options
 
 - `-s, --server`: SMTP server address.
