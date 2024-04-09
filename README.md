@@ -8,6 +8,8 @@ MailBlast is a Python application for sending emails with optional attachments. 
 - CLI for sending emails from the command line.
 - Supports sending HTML emails.
 - Option to attach files to emails.
+- Supports templates
+- Preview email before sending (GUI mode only).
 
 ## Installation
 
